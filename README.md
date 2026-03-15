@@ -875,7 +875,7 @@ By following these steps, we successfully deployed a Java-based Petshop applicat
 
 This journey has been a valuable learning experience, from infrastructure provisioning to continuous integration and deployment, containerization, orchestration, and ensuring robust security measures. I hope this detailed guide helps you in your own deployment projects and inspires you to explore the powerful tools and techniques in the DevSecOps realm.
 
-## Author by
 
-![](https://imgur.com/ZdiaMeo.gif)
+
+
 
